@@ -1,0 +1,60 @@
+{
+
+  "users": [
+
+    {
+
+      "name": "John Doe",
+
+      "email": "john.doe@example.com",
+
+      "phone": "+1-202-555-0147",
+
+      "address": "123 Main Street, New York, NY 10001",
+
+      "gender": "Male",
+
+      "days": [
+
+        "Monday",
+
+        "Wednesday",
+
+        "Friday"
+
+      ],
+
+      "country": "United States"
+
+    },
+
+    {
+
+      "name": "Jane Smith",
+
+      "email": "jane.smith@example.com",
+
+      "phone": "+1-303-555-0198",
+
+      "address": "456 Oak Avenue, Los Angeles, CA 90001",
+
+      "gender": "Female",
+
+      "days": [
+
+        "Tuesday",
+
+        "Thursday",
+
+        "Saturday"
+
+      ],
+
+      "country": "United States"
+
+    }
+
+  ]
+
+}
+ 

@@ -1,0 +1,24 @@
+{
+  "LookingFor": [
+    {
+      "male": "wallet",
+      "female": "purse"
+    },
+    {
+      "male": "shaving kit",
+      "female": "spa kit"
+    }
+  ],
+  "flightOffers": [
+    {
+      "segments": [
+        {
+          "airline": "IndiGo"
+        }
+      ]
+    }
+  ],
+  "payment": {
+    "cardNumber": "1234-5678-9012-3456"
+  }
+}
